@@ -81,9 +81,6 @@
 
 </div>
 
-### Latest Blog Post
-<iframe src="https://your-wordpress-website.com/path-to-latest-blog-post" frameborder="0" width="100%" height="400px"></iframe>
-
 
 
 <hr>
