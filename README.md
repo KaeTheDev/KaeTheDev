@@ -2,11 +2,11 @@
 
 
 <div align="center">
-  <p>
+  <h3>
      🌆 Web Developer for the City of Detroit | 📱🌟 iOS App Developer |
     🚀 Multi-Tech Enthusiast | 📝 Blogging at <a href="https://kaethedev.com">kaethedev.com</a> |
     Digital Alchemy: Transforming Ideas into Reality with Swift, MERN, Python, Flask, and the Versatility of Web Development.
-  </p>
+  </h3>
 </div>
 
 <hr>
@@ -33,7 +33,8 @@
 <hr>
 <div align="center">
 <h1>💻 Tech Stack</h1>
-</div>
+
+
 ## Front-End Development
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -78,7 +79,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-
+</div>
 
 <hr>
 
