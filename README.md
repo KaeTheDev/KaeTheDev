@@ -2,11 +2,13 @@
 
 
 <div align="center">
-  <h3>
-     🌆 Web Developer for the City of Detroit | 📱🌟 iOS App Developer |
-    🚀 Multi-Tech Enthusiast | 📝 Blogging at <a href="https://kaethedev.com">kaethedev.com</a> |
-    Digital Alchemy: Transforming Ideas into Reality with Swift, MERN, Python, Flask, and the Versatility of Web Development.
-  </h3>
+<h3>
+🛍️ Shopify-Focused Frontend Developer | 💻 HTML, CSS/SCSS, JavaScript, React & Liquid |
+🚀 Building Custom Shopify Themes | 📈 Future Shopify Partner & Freelancer |
+📝 Blogging at <a href="https://starvingartistddllc.com">Starving Artist Design & Development, LLC</a> |
+Digital Alchemy: Crafting Seamless Ecommerce Experiences with Modern Web Technologies.
+</h3>
+
 </div>
 
 <hr>
