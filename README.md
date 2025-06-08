@@ -63,13 +63,12 @@
 
 ## Content Management Systems
 
-
 ![Shopify](https://img.shields.io/badge/Shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
 
 
 </div>
 
-<h1>MAIN WEBSITE.</h1>
+<h1>MAIN WEBSITE</h1>
 Visit my website: [Starving Artist Design & Development](https://www.starvingartistddllc.com)
 
 
