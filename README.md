@@ -4,7 +4,7 @@
   <h2>👋 About Me</h2>
   <h3>
     🛍️ Shopify-Focused Frontend Developer | 💻 HTML, CSS/SCSS, JavaScript, React & Liquid <br>
-    🚀 Building Custom Shopify Themes | 📈 Future Shopify Partner & Freelancer <br>
+    🚀 Building Custom Shopify Themes | 📈 Shopify Partner & Freelancer <br>
     📝 Blogging at <a href="https://starvingartistddllc.com">Starving Artist Design & Development, LLC</a> <br>
     Digital Alchemy: Crafting Seamless Ecommerce Experiences with Modern Web Technologies.
   </h3>
