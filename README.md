@@ -18,7 +18,7 @@ Live: [https://luxarist.onrender.com](https://luxarist.onrender.com) | GitHub: [
 - Structured app for **scalability and maintainability**, separating frontend and backend concerns
 
 **Audiophile – Frontend E-Commerce Project**  
-- Developed responsive, accessible UI components using **React, HTML, CSS/SCSS**  
+- Developed responsive, accessible UI components using **React,JavaScript, CSS/SCSS**  
 - Focused on performance, layout consistency, and reusable component architecture  
 - GitHub: [Audiophile GitHub Link](https://github.com/KaeTheDev/audiophile-react) | Live: [Audiophile Live Link](https://kaethedev.github.io/audiophile-react/)
 
