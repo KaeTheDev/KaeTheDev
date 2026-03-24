@@ -37,7 +37,7 @@ Live: [https://luxarist.onrender.com](https://luxarist.onrender.com) | GitHub: [
 ## 🚀 Other Experience
 
 - Shopify-focused frontend developer: HTML, CSS/SCSS, JavaScript, React & Liquid  
-- Built custom Shopify themes for e-commerce clients  
+- Built custom Shopify themes 
 - Personal portfolio & blog: [Starving Artist Design & Development](https://www.starvingartistddllc.com)
 
 ---
